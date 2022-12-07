@@ -1,4 +1,21 @@
-[***Link de calculadora***](https://anthonyah131.github.io/Calculadora-React/)
+# Calculadora-React
+
+### Calculadora realizada en React la cúal cuenta con las siguientes opecaciones
+
+- Suma
+- Resta
+- Multiplicación
+- División
+- Raíz cuadrada
+- Potencia al número que el usuario te diga
+- Residuo de una división
+- π
+
+### Link de la calculadora
+
+### [***Calculadora***](https://anthonyah131.github.io/Calculadora-React/)
+
+- El fondo del astronauta se realizó con éste tutorial [Astronaut Animation](https://www.youtube.com/watch?v=UVvdxs5gcuQ&t=2s)
 
 # Getting Started with Create React App
 
